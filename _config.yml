@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Meng Yuan / （袁梦）"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Meng Yuan"
+description              : &description "BS Candidate in Software Engineering & Biology"
+url                      : https://imengyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "imengyuan/imengyuan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Meng Yuan"
+  avatar           : "avatar1.jpg"
+  bio              : "BS Candidate in Software Engineering & Biology"
+  location         : 
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "viciayuan@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/imengyuan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -182,6 +182,21 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/  
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  project:
+    output: true
+    permalink: /:collection/:path/
+  bioinfo:
+    output: true
+    permalink: /:collection/:path/
+  plant:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,6 +254,27 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _about
+  - about:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+  # _cv
+  - about:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+  # _project
+  - about:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
