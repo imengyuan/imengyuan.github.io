@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: /about/    
 
   - title: "CV"
     url: /cv/    
     
-  - title: "Projects"
+  - title: "Project"
     url: /project/
         
-  - title: "Bioinfo Blogs"
+  - title: "Bioinfo"
     url: /bioinfo/
     
-  - title: "Plant Blogs"
+  - title: "Plant"
     url: /plant/
 
