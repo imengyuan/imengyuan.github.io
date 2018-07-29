@@ -11,22 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Major in Software Engineering, Sichuan University, 2019
+* B.S. Minor in Software Engineering, Sichuan University, 2019
 
 Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
-  * Duties included: Tagging issues
+  * Duties included: Plant Identification
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Summer 2018: Research Intern
+  * Simon Fraser University
+  * Duties included: Bioinformatic analisis
+  * Supervisor: Professor Jim Mattsson
+
+Research 
+======
+* Summer 2015: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+* Summer 2018: Research Intern
+  * Simon Fraser University
+
+
 Skills
 ======
 * Skill 1
@@ -36,24 +44,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Awards
 ======
 * Currently signed in to 43 different slack teams
