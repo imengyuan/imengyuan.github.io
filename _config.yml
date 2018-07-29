@@ -182,18 +182,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/ 
-  cv:
-    output: true
-    permalink: /:collection/:path/
-  project:
-    output: true
-    permalink: /:collection/:path/
-  bioinfo:
-    output: true
-    permalink: /:collection/:path/
-  plant:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
