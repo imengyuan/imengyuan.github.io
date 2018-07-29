@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Yuan / （袁梦）"
+title                    : "Meng Yuan（袁梦）"
 title_separator          : "-"
 name                     : &name "Meng Yuan"
-description              : &description "BS Candidate in Software Engineering & Biology"
+description              : &description "BS Candidate in Software Engineering&Biological Science"
 url                      : https://imengyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imengyuan/imengyuan.github.io"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Meng Yuan"
-  avatar           : "avatar1.jpg"
+  avatar           : "avatar.jpg"
   bio              : "BS Candidate in Software Engineering & Biology"
   location         : 
   employer         :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/imengyuan"
+  github           : "imengyuan"
   google_plus      :
   keybase          :
   instagram        :
@@ -170,19 +170,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  plant:
     output: true
     permalink: /:collection/:path/
-  publications:
+  project:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  bioinfo:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/ 
-
 
 
 # Defaults
@@ -237,23 +233,19 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-  # _cv
-  - about:
+      comment: true
+  # _blog
+  - scope:
       path: ""
-      type: cv
+      type: blog
     values:
       layout: single
       author_profile: true
-  # _project
-  - about:
-      path: ""
-      type: about
-    values:
-      layout: single
-      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:

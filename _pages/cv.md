@@ -11,41 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. Major in Software Engineering, Sichuan University, 2019
-* B.S. Minor in Software Engineering, Sichuan University, 2019
+* Third-year Undergraduate in Sichuan University
+* Major in Software Engineering, Minor in Biological Science
+* Weighted Average Grade: 88.9/100  TOEFL: 100
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Plant Identification
-  * Supervisor: Professor Git
+* RNA sequencing-based analysis of economical traits in tree species（Summer 2018）
+  * a summer research intern on this project at Simon Fraser University in Canada, starting in July and for 3 months.
 
-* Summer 2018: Research Intern
-  * Simon Fraser University
-  * Duties included: Bioinformatic analisis
-  * Supervisor: Professor Jim Mattsson
+* Study on the Chloroplast Genome of Oenanthe javanica
+(Unpublished)
+  * using bioinformatic softwares to assembly and analyze the genome of this aquatic plant which has medicinal values, and may use it for later phylogenic research. Also I have good command of writing Shell/Perl/Python scripts.
 
-Research 
+* Anatomy of Flowers in Sichuan Province, China
+  * Team member
+
+* EstablishingofDigitalNetworkPlatformofPlantsinSichuan University
+  * I have used html/css/javascript, MYSQL and PHP languages to write the webpages and has successfully worked as a team leader for the project.
+
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2018 Mitacs Intern in Simon Fraser University
+* Research Assitant in China
+* President of the Bontnay Association in Sichuan University
 
-* Summer 2018: Research Intern
-  * Simon Fraser University
+Awards 
+======
+* 2016 Sichuan University Challenge Cup Web Designing Contest
+  * Team Leader, Second Prize
 
+* 2016 Sichuan University Architects Competition of Microorganism Application (Human Microbiome)
+  * Team Leader, Outstanding Performance Award
+
+* Participant of 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, Perl(basic)
+  * Java
+  * MySQl
+* Biology Insights
+* Teamwork, Management, Enthusiasm 
+
 
 
   
-Awards
-======
-* Currently signed in to 43 different slack teams
+

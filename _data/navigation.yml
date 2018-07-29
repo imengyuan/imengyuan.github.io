@@ -3,12 +3,12 @@ main:
   - title: "CV"
     url: /cv/    
     
-  - title: "Project"
+  - title: "Projects"
     url: /project/
         
-  - title: "Bioinfo"
-    url: /bioinfo/
+  - title: "Blogs"
+    url: /blog/
     
-  - title: "Plant"
+  - title: "Plant Photography"
     url: /plant/
 

@@ -1,0 +1,74 @@
+---
+title: Species delimitation review 物种界定综述（二）
+date: 2017-12-14 17:04:27
+tags: 
+- speciation
+- species delimitation
+- molecular evolution
+categories:
+- species concepts
+---
+深入了解物种概念，物种界定综述笔记分享第二篇~ 模糊物种界限、导致物种界定困难的七个过程。
+<!-- more -->
+如果所有基因树和物种树吻合，使用序列数据来界定物种将不存在问题。然而一直以来，基于不同基因组/基因的基因树都可能彼此不一致，和物种进化树更可能不同了。那么用哪一个基因树呢？有哪些过程影响了这种基因树异质性呢？这就是上篇笔记提到的七个能导致物种界定困难的过程了。
+<!--论点+论述+举例的形式-->
+
+#### 七个过程
+__1.Intergenomic transfers 基因组间转移__
+核基因组由不同起源和历史的片段嵌合而成，由同一生物体中，从质体和线粒体到细胞核基因组的基因转移造成。自转移后，目标序列及其NuPt（质体DNA的细胞核拷贝）和NuMt（线粒体DNA的细胞核拷贝）在突变、重组和有效大小的历史，也可能会导致基因异质性偏差的过度估计，并可能影响DNA条形码研究的效率。
+
+
+__2.Hybridization 杂交__
+杂交产生的水平和种间遗传物质转移，导致核基因组嵌合、产生基因/基因组异质性。杂交导致物种间遗传物质的转移，使基因树可以追溯到多个物种形成的历史。最极端的例子在于同一物种的质体或者核基因组与不同物种有亲缘关系，这个现象叫做质体捕捉（plastid capture）。
+
+
+__3.Incomplete lineage sorting 不完整谱系分选__
+不完全谱系分选发生时,已分化物种获得的等位基因不反映物种形成事件的顺序，这种随机性在溯祖理论中很好地被描述。不完全谱系分选因此可能导致近源物种间的不一致的关系，在一些研究中也解释了基因树不一致、不同分支产生的机制。
+![](https://viciayuan.github.io/images/171203/lineage_sorting.png)
+
+
+__4.Genome organisation 基因组结构__
+基因组结构可以通过整个基因组的加倍、移位和染色体融合而改变，并影响每个基因座的有效种群大小。例如基因座如果位于分布了大量受选择基因的区域，它能通过搭载效应，比位于受选择基因少的区域的基因座有更低的有效种群大小。相反，在染色体末端，和离受选择基因较远的基因座有更大的有效种群大小，因此更长的溯祖时间。
+
+
+__5.Demography 种群动态__
+影响有效种群大小Ne（继而影响谱系分选和溯祖时间）最明显的过程，在于种群大小及其随时间的变化。所有的种群动态变化，比如瓶颈效应、范围扩张、种群动态扩张、雌雄异体物种的繁殖成功率的变化或不平衡的性别比都对Ne有影响，并因此对溯祖时间有影响。
+
+
+__6.Selection 自然选择__
+选择强度的变化被认为能影响Ne，因此影响溯祖深度。有研究认为，除非选择强度很大，否则选择对系谱和溯祖时间没有影响，这是因为自然选择必须在溯祖过程固有的随机性被发现之前覆盖它。其他研究表明在突变分布于系谱的方式上，选择有可观测的影响，因此在系统发育框架中，影响了分支长度而不是其拓扑结构。
+
+__7.Phylogeographic structure 谱系地理学结构__
+在许多物种中，很强的空间遗传结构被观察到，对这种结构的分析提供了种群遗传学和谱系地理学的基础。例如在surfing现象中，当扩张迅速地发生，并被接连的奠基者事件调节，导致一系列新的小种群的建立。在前沿种群中自然选择很弱或完全没有，这有时可以导致一些稀有的等位基因变得广泛而常见。
+
+
+#### 小结
+大概这个笔记还有很多坑没有填完...对于物种概念和关系的兴趣来自于我对植物分类的喜爱，文献翻译的作业还是比正经考试好玩一点。过段时间回来接着填坑。以及希望对下面的问题希望能进一步探索：
+
+* 物种的概念，如何根据各种依据界定物种是较为合理的？形态学和遗传学数据在造成不同结果时如何取舍？不同情况下近源物种的划分，基于遗传数据的物种/亚种划分结果修正......
+
+虽然我也不知道我都问的什么...可能结合实例会好说些。
+
+感觉读完翻译完和写出来分享出来的完全不一样，这种只有半瓢水还要给出一瓢水的捉襟见肘orz 没办法，坑已经挖在这了，慢慢填吧.....
+<br>
+论文地址：[Species delimitation and relationships: The dance of the seven veils](http://www.plantevolution.org/jc/Naciri2015.pdf)
+上一篇笔记：[Species delimilation review 物种界定综述（一）](https://viciayuan.github.io/2017/12/03/species-delimilation/#more)
+
+
+<!--Comment Area Here-->
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+
+var gitment = new Gitment({
+  //sid: '页面 ID', // 可选。默认为 location.href
+  owner: 'ViciaYuan',
+  repo: 'viciayuan.github.io',
+  oauth: {
+    client_id: '0edc885787509e0eadc7',
+    client_secret: '935379f53bf779fb6445d4341c9076418938c761',
+  },
+})
+gitment.render('container')
+</script>
