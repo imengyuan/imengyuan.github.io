@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Bioinformatics Blogs"
-permalink: /bioinfo/
+title: "Blogs"
+permalink: /blog/
 author_profile: true
 redirect_from:
-  - /bioinfo
+  - /blog
 ---
 
-bioinfo
+Blogs
 
 [Github Repo for my bioinfo analysis scripts](https://github.com/imengyuan/Bioinfo-pipelines)
 
@@ -21,6 +21,6 @@ I also write some blogs, see below
 
 {% include base_path %}
 
-{% for post in site.bioinfo reversed %}
+{% for post in site.blog reversed %}
   {% include archive-single.html %}
 {% endfor %}

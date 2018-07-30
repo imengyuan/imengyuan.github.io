@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Meng Yuan（袁梦）"
 title_separator          : "-"
 name                     : &name "Meng Yuan"
-description              : &description "BS Candidate in Software Engineering&Biological Science"
+description              : &description "Third-year Undergraduate in Software Engineering& Biological Science"
 url                      : https://imengyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imengyuan/imengyuan.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Meng Yuan"
   avatar           : "avatar.jpg"
-  bio              : "BS Candidate in Software Engineering & Biology"
-  location         : 
+  bio              : "Third-year Undergraduate in Computational Biology"
+  location         : "Simon Fraser University"
   employer         :
   googlescholar    : 
   email            : "viciayuan@gmail.com"
@@ -176,7 +176,7 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  bioinfo:
+  blog:
     output: true
     permalink: /:collection/:path/
 
@@ -241,6 +241,15 @@ defaults:
   - scope:
       path: ""
       type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _project
+  - scope:
+      path: ""
+      type: project
     values:
       layout: single
       author_profile: true

@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/ 
+
   - title: "CV"
     url: /cv/    
     
@@ -9,6 +12,5 @@ main:
   - title: "Blogs"
     url: /blog/
     
-  - title: "Plant Photography"
-    url: /plant/
+
 
