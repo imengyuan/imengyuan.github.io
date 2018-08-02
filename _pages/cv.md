@@ -22,7 +22,7 @@ Education
 Research Experience
 ======
 * __RNA Sequencing-based Analysis of Economical Traits in Tree Species__（Summer 2018）
-  * Performing RNAseq analysis to reveal candidate genes involved in resistence of tree with economical values
+  * Performing RNAseq analysis to reveal candidate genes involved in resistence of trees with economical values
 
 * __Study on the Chloroplast Genome of Oenanthe javanica__
 (Unpublished)
@@ -40,7 +40,7 @@ Work Experience
 
 Awards 
 ======
-* __2016 - 2017:__ President of the Bontany Association of Life Science College in Sichuan University
+* __2016 - 2017:__ President of the Botany Association of Life Science College in Sichuan University
   * Co-founder and the First President
 
 * __2016 :__ Sichuan University Challenge Cup Web Designing Contest

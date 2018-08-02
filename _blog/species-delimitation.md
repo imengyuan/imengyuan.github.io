@@ -59,8 +59,6 @@ categories:
 这里先补充一些重要的理论或概念，方便理解上面的一些内容，也为下一篇介绍七个过程的文章补一些背景。（此处先挖坑再填坑）
 <!--补充一些常用的，和部分来自appendix的-->
 
-![](https://viciayuan.github.io/images/171203/coalescence.png)
-溯祖
 
 有效种群大小Ne
 种群大小N
@@ -79,22 +77,5 @@ TCG
 如果你真的读到了这里并且对于物种概念和物种界定感兴趣的话，建议下载原论文阅读。 并且欢迎参考我的下一篇笔记，了解导致物种界定困难的七个过程。
 
 论文地址：[Species delimitation and relationships: The dance of the seven veils](http://www.plantevolution.org/jc/Naciri2015.pdf)
-下一篇笔记：[Species delimilation review 物种界定综述（二）](https://viciayuan.github.io/2017/12/14/species-delimitation-7-veils/#more)
 
-<!--Comment Area Here-->
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
 
-var gitment = new Gitment({
-  //sid: '页面 ID', // 可选。默认为 location.href
-  owner: 'ViciaYuan',
-  repo: 'viciayuan.github.io',
-  oauth: {
-    client_id: '0edc885787509e0eadc7',
-    client_secret: '935379f53bf779fb6445d4341c9076418938c761',
-  },
-})
-gitment.render('container')
-</script>

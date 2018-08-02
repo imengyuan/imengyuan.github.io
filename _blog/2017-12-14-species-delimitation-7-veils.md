@@ -14,6 +14,7 @@ categories:
 <!--论点+论述+举例的形式-->
 
 #### 七个过程
+
 __1.Intergenomic transfers 基因组间转移__
 核基因组由不同起源和历史的片段嵌合而成，由同一生物体中，从质体和线粒体到细胞核基因组的基因转移造成。自转移后，目标序列及其NuPt（质体DNA的细胞核拷贝）和NuMt（线粒体DNA的细胞核拷贝）在突变、重组和有效大小的历史，也可能会导致基因异质性偏差的过度估计，并可能影响DNA条形码研究的效率。
 
@@ -50,25 +51,10 @@ __7.Phylogeographic structure 谱系地理学结构__
 虽然我也不知道我都问的什么...可能结合实例会好说些。
 
 感觉读完翻译完和写出来分享出来的完全不一样，这种只有半瓢水还要给出一瓢水的捉襟见肘orz 没办法，坑已经挖在这了，慢慢填吧.....
+
 <br>
+
 论文地址：[Species delimitation and relationships: The dance of the seven veils](http://www.plantevolution.org/jc/Naciri2015.pdf)
-上一篇笔记：[Species delimilation review 物种界定综述（一）](https://viciayuan.github.io/2017/12/03/species-delimilation/#more)
 
 
-<!--Comment Area Here-->
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
 
-var gitment = new Gitment({
-  //sid: '页面 ID', // 可选。默认为 location.href
-  owner: 'ViciaYuan',
-  repo: 'viciayuan.github.io',
-  oauth: {
-    client_id: '0edc885787509e0eadc7',
-    client_secret: '935379f53bf779fb6445d4341c9076418938c761',
-  },
-})
-gitment.render('container')
-</script>
