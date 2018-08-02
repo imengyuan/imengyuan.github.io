@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+View the [PDF version of my CV](https://imengyuan.github.io/files/cv_yuanmeng.pdf)
+
+
 Education
 ======
 * Third-year Undergraduate in Sichuan University
