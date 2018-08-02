@@ -12,48 +12,57 @@ redirect_from:
 Education
 ======
 * Third-year Undergraduate in Sichuan University
+
 * Major in Software Engineering, Minor in Biological Science
-* Weighted Average Grade: 88.9/100  TOEFL: 100
 
-Research experience
+* Weighted Average Grade: 88.9/100      
+
+* TOEFL: 100 (Reading25 Listening25 Speaking23 Writing27)
+
+Research Experience
 ======
-* RNA sequencing-based analysis of economical traits in tree species（Summer 2018）
-  * a summer research intern on this project at Simon Fraser University in Canada, starting in July and for 3 months.
+* __RNA Sequencing-based Analysis of Economical Traits in Tree Species__（Summer 2018）
+  * Performing RNAseq analysis to reveal candidate genes involved in resistence of tree with economical values
 
-* Study on the Chloroplast Genome of Oenanthe javanica
+* __Study on the Chloroplast Genome of Oenanthe javanica__
 (Unpublished)
-  * using bioinformatic softwares to assembly and analyze the genome of this aquatic plant which has medicinal values, and may use it for later phylogenic research. Also I have good command of writing Shell/Perl/Python scripts.
+  * Performed assembly, annotation and analysis the chloroplast genome of this traditional medicinal plant, as well as later phylogenic research. 
 
-* Anatomy of Flowers in Sichuan Province, China
-  * Team member
-
-* EstablishingofDigitalNetworkPlatformofPlantsinSichuan University
-  * I have used html/css/javascript, MYSQL and PHP languages to write the webpages and has successfully worked as a team leader for the project.
+* __Establishing of Digital Network Platform of Plants in Sichuan University__
+  * Used html/css/javascript, MYSQL and PHP languages to write the webpages and has successfully worked as a team leader for the project.
 
 Work Experience
 ======
-* 2018 Mitacs Intern in Simon Fraser University
-* Research Assitant in China
-* President of the Bontnay Association in Sichuan University
+* __2018 Summer :__ Mitacs Globalink Intern in Simon Fraser University
+
+* __2017 - Present :__ Research Assitant in Key laboratory for Bio-resources and Eco-environment of Ministry of Education, Sichuan University
+
 
 Awards 
 ======
-* 2016 Sichuan University Challenge Cup Web Designing Contest
+* __2016 - 2017:__ President of the Bontany Association of Life Science College in Sichuan University
+  * Co-founder and the First President
+
+* __2016 :__ Sichuan University Challenge Cup Web Designing Contest
   * Team Leader, Second Prize
 
-* 2016 Sichuan University Architects Competition of Microorganism Application (Human Microbiome)
+* __2016 :__ Sichuan University Architects Competition of Microorganism Application (Human Microbiome)
   * Team Leader, Outstanding Performance Award
-
-* Participant of 
+ 
 
 Skills
 ======
 * Programming
-  * Python, Perl(basic)
-  * Java
-  * MySQl
-* Biology Insights
-* Teamwork, Management, Enthusiasm 
+  * Python
+  * R
+  * Shell Script
+  * SQL
+  * Perl(basic)
+  * Java(basic)
+
+* Biological Insights
+
+* Teamwork, Enthusiasm 
 
 
 
