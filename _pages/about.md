@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Meng Yuan, a third-year undergraduate in computational biology and will graduate in June, 2019. This is an interdisciplinary program in [Sichuan University](http://en.scu.edu.cn/) and I'll graduate with a major in Software Engineering and a minor in Biological Science. I'm a research assistant in the life science college working on chloroplast genomes, surpervised by Professor [Yan Yu](https://www.researchgate.net/profile/Yan_Yu33). 
+Hi I'm Meng Yuan, a third-year undergraduate in computational biology and will graduate in 2019. This is an interdisciplinary program in [Sichuan University](http://en.scu.edu.cn/) and I'll graduate with a major in Software Engineering and a minor in Biological Science. I'm a research assistant in the life science college working on chloroplast genomes, surpervised by Professor [Yan Yu](https://www.researchgate.net/profile/Yan_Yu33). 
 
 
 ## News
-I'm right now a research intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html). And in August I will visit University of Toronto and participate in a symposium called [Evolution of Plant Reproductive Systems: From Muddy Boots to Genomics](https://barrettfest.eeb.utoronto.ca/).
+I'm right now a research intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html). After this internship I will start doing my final-year project on population genetics and evolutionary genomics.
+
 
 ## Interests
 * Computational Biology
