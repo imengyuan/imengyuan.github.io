@@ -5,7 +5,6 @@ tags:
 - plant
 categories:
 - plant
-thumbnail: https://mmbiz.qpic.cn/mmbiz_jpg/tMbRm49My5NxvUy8QWnjdSNicicmr1SeiaNXOH8jxOsd5zcI8JoDAaxDM9NhyCPH4AJzf9AfDAhqBCW1XDJia6hCtA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1
 ---
 从2016年4月起，给公众号ScuBotanics（微信号scubotanics）写过的植物科普文章汇总。
 <!-- more -->
