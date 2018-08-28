@@ -18,7 +18,7 @@ I'm right now a research intern in Simon Fraser University working with Professo
 ## Interests
 * Computational Biology
   * My interest lies in the general area of computional biology and bioinformatics(slightly difference between these two). My past experience involves chloroplast genomics, trancriptomics and population genetics. See my notes and scripts on bioinformatics [here](https://github.com/imengyuan/Bioinfo-pipelines).
-* Plant Systematics
+* Plants
   * I'm the founder and former president of the Fantastic Botany Association of Life Science College in Sichuan University. I've written many popular-scientific articles on plants(Chinese), see links [here]().
 * Software Developing
   * I've written several programs and find it exciting to develop new platforms and helpful softwares. Check my [Github](https://github.com/imengyuan) for details.  
