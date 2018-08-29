@@ -9,5 +9,7 @@ main:
   - title: "Blogs"
     url: /blog/
     
+  - title: "Gallery"
+    url: /gallery/
 
 
