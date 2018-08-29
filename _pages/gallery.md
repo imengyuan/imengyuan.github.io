@@ -7,4 +7,4 @@ redirect_from:
   - /gallery
 ---
 
-!()[https://imengyuan.github.io/images/avatar.jpg]
+![](https://imengyuan.github.io/images/avatar.jpg)
