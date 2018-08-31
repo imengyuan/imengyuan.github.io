@@ -6,5 +6,13 @@ author_profile: true
 redirect_from:
   - /gallery
 ---
+July-October 2018, BC Canada, Internship
 
-![](https://imengyuan.github.io/images/avatar.jpg)
+
+August 2018, Toronto, Symposium & Travel 
+
+
+July 2018, South China Botanical Garden, Flight Layover
+
+
+May 2018
