@@ -7,12 +7,10 @@ redirect_from:
   - /blog
 ---
 
-Bioinfo Pipeline Notes
+_Bioinfo Pipeline Notes_
 ======
 
-[Github Repository for my bioinfo analysis scripts](https://github.com/imengyuan/Bioinfo-pipelines)
-
-Including
+[Click to see Github Repository for my bioinfo analysis scripts](https://github.com/imengyuan/Bioinfo-pipelines), Including
 
 * [bioinfo_raining](https://github.com/imengyuan/Bioinfo-pipelines/tree/master/bioinfo_training): Notes& summary of computational biology training course (for third-year undergrates)
 * [cpg_analysis](https://github.com/imengyuan/Bioinfo-pipelines/tree/master/cpg_analysis): Pipeline notes on chloroplast genome analysis (with a focus on assembly for now )
@@ -20,9 +18,9 @@ Including
 
 <br>
 
-Blog Posts(Chinese)
+_Blog Posts(Chinese)_
 ======
-My past blog posts are written in Chinese, here's an English overview and links of them.
+My past blog posts are written in Chinese, here's an English overview and links to them.
 
 
 * __[Popular Science Articles on Plants Written by Vicia](https://imengyuan.github.io/blog/2018-03-23-plant-articles/)__
