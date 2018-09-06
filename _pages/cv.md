@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-View the [PDF version of my CV](https://imengyuan.github.io/files/cv_mengyuan.pdf)
+Click to view the [PDF version of my CV](https://imengyuan.github.io/files/cv_mengyuan.pdf)
 
 
-Education
-======
+## Education
+
 * Third-year Undergraduate in Sichuan University
 
 * Major in Software Engineering, Minor in Biological Science
@@ -22,8 +22,9 @@ Education
 
 * TOEFL: 100 (Reading25 Listening25 Speaking23 Writing27)
 
-Research Experience
-======
+
+## Research Experience
+
 * __RNA Sequencing-based Analysis of Economical Traits in Tree Species__（Summer 2018）
   * Performing RNAseq analysis to reveal candidate genes involved in resistence of trees with economical values
 
@@ -34,15 +35,15 @@ Research Experience
 * __Establishing of Digital Network Platform of Plants in Sichuan University__
   * Used html/css/javascript, MYSQL and PHP languages to write the webpages and has successfully worked as a team leader for the project.
 
-Work Experience
-======
+
+## Work Experience
 * __2018 Summer :__ Mitacs Globalink Intern in Simon Fraser University
 
 * __2017 - Present :__ Research Assitant in Key laboratory for Bio-resources and Eco-environment of Ministry of Education, Sichuan University
 
 
-Awards 
-======
+
+## Awards
 * __2016 - 2017:__ President of the Botany Association of Life Science College in Sichuan University
   * Co-founder and the First President
 
@@ -51,10 +52,11 @@ Awards
 
 * __2016 :__ Sichuan University Architects Competition of Microorganism Application (Human Microbiome)
   * Team Leader, Outstanding Performance Award
- 
 
-Skills
-======
+
+
+## Skills
+
 * Programming
   * Python
   * R
