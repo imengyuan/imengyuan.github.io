@@ -12,14 +12,14 @@ Hi I'm Meng Yuan, a third-year undergraduate in computational biology and will g
 
 
 ## News
-I'm right now a research intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html). After this internship I will start doing my final-year project on population genetics and evolutionary genomics.
+I'm right now a research intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on bark transcriptome. After this internship I will start doing my final-year project on comparative genomics of two populus species.
 
 
 ## Interests
 * Computational Biology
   * My interest lies in the general area of computional biology and bioinformatics(slightly difference between these two). My past experience involves chloroplast genomics, trancriptomics and population genetics. See my notes and scripts on bioinformatics [here](https://github.com/imengyuan/Bioinfo-pipelines).
 * Plants
-  * I'm the founder and former president of the Fantastic Botany Association of Life Science College in Sichuan University. I've written many popular-scientific articles on plants(Chinese), see links [here]().
+  * I'm the founder and former president of the Fantastic Botany Association of Life Science College in Sichuan University. I've written many popular-scientific articles on plants(Chinese), see links [here](https://imengyuan.github.io/blog/2018-03-23-plant-articles/).
 * Software Developing
   * I've written several programs and find it exciting to develop new platforms and helpful softwares. Check my [Github](https://github.com/imengyuan) for details.  
 
