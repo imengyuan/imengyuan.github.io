@@ -12,7 +12,7 @@ Hi I'm Meng Yuan, a third-year undergraduate in computational biology from [Sich
 
 
 ## News
-I'm right now a [Mitacs](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) Globalink intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on bark transcriptome. After this internship I will start doing my final-year project on comparative genomics in Salicaceae.
+I'm right now a [Mitacs](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) Globalink intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on bark transcriptome. 
 
 
 ## Interests
