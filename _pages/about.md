@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Meng Yuan, a third-year undergraduate in computational biology from [Sichuan University](http://en.scu.edu.cn/). I will be graduating in June 2019 with a major in Software Engineering and a minor in Biological Science. I'm a research assistant in the life science college working on chloroplast genomics, surpervised by Professor [Yan Yu](https://www.researchgate.net/profile/Yan_Yu33). 
+Hi I'm Meng Yuan, a third-year undergraduate in computational biology from [Sichuan University](http://en.scu.edu.cn/). I will be graduating in June 2019 with a major in Software Engineering and a minor in Biological Science. My CV is availabe [here](https://imengyuan.github.io/files/cv_mengyuan.pdf).
 
 
 ## News
