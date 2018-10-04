@@ -8,5 +8,8 @@ main:
     
   - title: "Gallery"
     url: /gallery/
+    
+  - title: "Links"
+    url: /links/
 
 
