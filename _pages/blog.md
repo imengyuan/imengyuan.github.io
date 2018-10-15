@@ -7,17 +7,13 @@ redirect_from:
   - /blog
 ---
 
-## Bioinfo Pipeline Notes
-[Click to see Github Repository for my bioinfo analysis scripts](https://github.com/imengyuan/Bioinfo-pipelines), Including
+<br>
 
-* [bioinfo_raining](https://github.com/imengyuan/Bioinfo-pipelines/tree/master/bioinfo_training): Notes& summary of computational biology training course (for third-year undergrates)
-* [cpg_analysis](https://github.com/imengyuan/Bioinfo-pipelines/tree/master/cpg_analysis): Pipeline notes on chloroplast genome analysis (with a focus on assembly for now )
-* [RNA_seq](https://github.com/imengyuan/Bioinfo-pipelines/tree/master/rna_seq): RNA-sequencing based analysis notes (still in preparation)
+* [Academic Writing Notes](https://imengyuan.github.io/blog/academic_writing_2)
 
 <br>
 
-## Blog Posts (Chinese)
-My past blog posts are written in Chinese, here's an English overview and links to them.
+Below are old blog posts in Chinese.
 
 * [Popular Science Articles on Plants Written by Vicia](https://imengyuan.github.io/blog/2018-03-23-plant-articles/)
 
