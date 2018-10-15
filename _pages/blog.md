@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-* [Academic Writing Notes](https://imengyuan.github.io/blog/academic_writing_2/)
+* [Academic Writing Notes](https://imengyuan.github.io/blog/academic-writing-2/)
 
 <br>
 
