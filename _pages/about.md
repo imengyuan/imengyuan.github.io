@@ -12,8 +12,9 @@ Hi I'm Meng Yuan, a fourth-year undergraduate in computational biology from [Sic
 
 
 ## News
-I'm right now a [Mitacs](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) Globalink intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on conifer bark transcriptome. 
-I'm also starting on my graduation project in evolutionary genetics of plant sex chromosomes with Professor [Stephen Wright](http://www.eeb.utoronto.ca/people/d-faculty/Wright.htm?quot;%20title=).
+In summer 2018 I was a [Mitacs](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) Globalink intern in Simon Fraser University working with Professor [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on conifer bark transcriptome. 
+
+Now I'm doing my graduation project on plant sex chromosome evolution with Professor [Stephen Wright](http://www.eeb.utoronto.ca/people/d-faculty/Wright.htm?quot;%20title=) from University of Toronto.
 
 
 ## Interests

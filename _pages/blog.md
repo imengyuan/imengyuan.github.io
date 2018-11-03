@@ -9,10 +9,6 @@ redirect_from:
 
 <br>
 
-* [Academic Writing Notes](https://imengyuan.github.io/blog/academic-writing-2/)
-
-<br>
-
 Below are old blog posts in Chinese.
 
 * [Popular Science Articles on Plants Written by Vicia](https://imengyuan.github.io/blog/2018-03-23-plant-articles/)

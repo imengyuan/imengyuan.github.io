@@ -1,5 +1,11 @@
-# Academic Writing Notes for Personal Reference
-
+---
+title: Academic Writing Notes for Personal Reference
+date: 2018-10-15 22:00:00
+tags: 
+- writing
+categories:
+- acdemic
+---
 
 ![](https://imengyuan.github.io/images/0_core_thinking.png)
 
