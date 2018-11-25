@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Meng Yuan, a fourth-year undergraduate in computational biology from [Sichuan University](http://en.scu.edu.cn/). I will be graduating in June 2019 with a major in Software Engineering and a minor in Biological Science. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Nov2018.pdf) (updated Nov. 2018).
+Hi I'm Meng Yuan, a senior undergraduate in computational biology from [Sichuan University](http://en.scu.edu.cn/). I will be graduating in June 2019 with a major in Software Engineering and a minor in Biological Science. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Nov2018.pdf) (updated Nov. 2018).
 
 
 ## News
