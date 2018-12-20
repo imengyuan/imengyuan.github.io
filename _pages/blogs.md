@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Blogs"
-permalink: /blog/
+permalink: /blogs/
 author_profile: true
 redirect_from:
-  - /blog
+  - /blogs
 ---
 
 <br>
