@@ -4,7 +4,7 @@ main:
     url: /about/ 
            
   - title: "Blogs"
-    url: /blog/
+    url: /blogs/
     
   - title: "Gallery"
     url: /gallery/
