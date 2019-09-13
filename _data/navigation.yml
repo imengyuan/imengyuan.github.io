@@ -9,8 +9,8 @@ main:
   - title: "Gallery"
     url: /gallery/
     
-  - title: "Links"
-    url: /links/
+  - title: "Resources"
+    url: /resources/
 
   - title: "Blog"
     url: https://imengyuan.github.io/blog/

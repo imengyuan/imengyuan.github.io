@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Yuan | 袁梦"
+title                    : "Meng Yuan (袁梦)"
 title_separator          : "-"
 name                     : &name "Meng Yuan"
-description              : &description "Senior Undergrad in Computational Biology"
+description              : &description "PhD student in Ecology & Evolutionary Biology"
 url                      : https://imengyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imengyuan/imengyuan.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Meng Yuan"
   avatar           : "avatarca.png"
-  bio              : "Senior Undergrad in Computational Biology"
-  location         : 
+  bio              : "PhD student in Ecology & Evolutionary Biology"
+  location         : #"Toronto"
   employer         :
-  googlescholar    : 
-  email            : "viciayuan@gmail.com"
+  googlescholar    : # to be added
+  email            : "my.yuan@mail.utoronto.com"
   uri              :
   bitbucket        :
   codepen          :
