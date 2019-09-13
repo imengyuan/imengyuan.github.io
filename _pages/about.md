@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi welcome to my research page!
-
 I'm a first-year Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in quantitative genetics and evolutionary genomics. 
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University.
@@ -27,6 +25,6 @@ __July - Oct 2018__: In this summer I'm a [Mitacs Globalink](https://www.mitacs.
 
 <br>
 
+<img src="https://imengyuan.github.io/files/whistler.jpg" width="80%"  />
 
-![](https://imengyuan.github.io/files/whistler.jpg)
-<center><font style="font-size:95%;color:#c0c0c0">Botanizing at alpine meadows of Whistler Mountain, BC</font></center> 
+<font style="font-size:95%;color:#c0c0c0">Botanizing at alpine meadows of Whistler Mountain, BC</font>
