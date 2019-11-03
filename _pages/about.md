@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in quantitative genetics and evolutionary genomics. 
+I'm a first-year Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in quantitative genetics and evolutionary genomics. 
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University.
 
-
+Currently I'm studying the maintenance of genetic variation in different plant life cycles (i.e. through ploidally antagonistic selection).
 
 
 ## News
