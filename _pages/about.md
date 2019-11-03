@@ -11,7 +11,7 @@ I'm a first-year Ph.D. student in the Ecology and Evolutionary Biology departmen
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University.
 
-Currently I'm studying the maintenance of genetic variation in different plant life cycles (i.e. through ploidally antagonistic selection).
+Currently I'm studying the maintenance of genetic variation in different plant life cycles (e.g. through ploidally antagonistic selection).
 
 
 ## News
