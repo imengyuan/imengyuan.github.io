@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in quantitative genetics and evolutionary genomics. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Sept2020.pdf) (updated Sept. 2020).
+I'm a second-year Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in quantitative genetics and evolutionary genomics. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Oct2020.pdf) (updated Oct. 2020).
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University.
 
