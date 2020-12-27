@@ -9,9 +9,9 @@ redirect_from:
 
 <br>
 
-Below are old blog posts in Chinese.
+Below are some of my old blog posts written in Chinese during undergrad:
 
-* [Popular Science Articles on Plants Written by Vicia](https://imengyuan.github.io/blogs/2018-03-23-plant-articles/)
+* [Popular Science Articles on Common Plants in Campus](https://imengyuan.github.io/blogs/2018-03-23-plant-articles/)
 
 * [Assembly, Annotation and Correction of Chloroplast Genome](https://imengyuan.github.io/blogs/2018-03-22-cpg-analysis/)
 

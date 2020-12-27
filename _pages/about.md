@@ -11,11 +11,13 @@ I'm a second-year Ph.D. student in the Ecology and Evolutionary Biology departme
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University.
 
-Currently I'm studying the evolutionary genomics of plant gametophytic selection, e.g., the relative importance of antagonistic pleiotropy and positive covariance between the sporophytic and gametophytic stages of plant life cycle, and the possibility of ploidally antagonistic selection maintaining genetic variation.
+Currently I'm studying the evolutionary genomics of plant gametophytic selection. I'm interested in answering: 1) what's the genomic prevalence for evolutionary conflict between the sporophytic and gamatophytic phases in plant lifecycle? 2) how does this conflict influence phenotypic and genomic evolution in plants? 
 
+Check out the [Research](https://imengyuan.github.io/research/) page for more information. Feel free to reach out if you're interested in my research and want to chat :)
 
 
 ## News
+__Fall 2020__: Despite having a hard time adjusting in 2020, I have two small papers comming out this fall! One from an undergrad project [link](https://doi.org/10.1080/23802359.2020.1806128), the other one is a commentary piece on parallel adaptation [link](https://doi.org/10.1111/mec.15659).
 
 __Sept 2019__: I'm starting my PhD at the University of Toronto, looking forward to everything that's coming along!
 

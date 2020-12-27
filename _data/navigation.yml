@@ -3,14 +3,14 @@ main:
   - title: "About"
     url: /about/ 
            
-  # - title: "Blogs"
+  - title: "Research"
+    url: /research/
+    
+  - title: "Photography"
+    url: /photography/
+    
+  # - title: "Blog"
   #   url: /blogs/
-    
-  - title: "Gallery"
-    url: /gallery/
-    
-  - title: "Resources"
-    url: /resources/
 
   # - title: "Blog"
   #   url: https://imengyuan.github.io/blog/

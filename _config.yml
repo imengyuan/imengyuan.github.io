@@ -90,7 +90,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "photos/166559948@N08/albums"
+  flickr           : #"photos/166559948@N08/albums"
   facebook         :
   foursquare       :
   github           : "imengyuan"
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-8650-3949"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
