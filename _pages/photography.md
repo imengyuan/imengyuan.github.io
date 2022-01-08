@@ -7,7 +7,9 @@ redirect_from:
   - /photography
 ---
 
-I haven't updated this page since 2018, but I'm always taking plant photos and learning more about photography when I have the chance. These plant photos always remind me of special and happy memories from different trips at different stages of my life (even though sometimes the photos are not very good). I'll try to update this page with more recent photos soon.
+To be updated.
+
+
 
 __Vandusen Botanical Garden__ Busy Labor Day Weekend 
 
