@@ -7,7 +7,7 @@ redirect_from:
   - /photography
 ---
 
-I'm a huge plant nerd and I enjoy nature photography in my free time. Here are some of the photos I took using Nikon D610 (100mm & 24-85mm lenses) and Sony DSC-RX100.
+As a huge plant nerd, I enjoy nature photography in my free time. Here are some of the photos I took using Nikon D610 (100mm, 24-85mm lenses) and Sony DSC-RX100.
 
 
 __2021 Favorites__
@@ -24,14 +24,7 @@ __2020 Favorites__
 
 __2019 Favorites__ 
 
-<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51810135050/in/album-72177720295830864/" title="1"><img src="https://live.staticflickr.com/65535/51810135050_aaa8e1f6e8_z.jpg" width="640" height="427" alt="1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<br>
-
-
-__Summer 2018, Burnaby & Vancouver__ Internship
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/44223489842/in/album-72157694798142860/" title="Black berry"><img src="https://farm2.staticflickr.com/1889/44223489842_42f544100d_n.jpg" width="640" height="427" alt="Black berry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51808440787/in/album-72177720295830864" title="whistler_3_alpine hiking"><img src="https://live.staticflickr.com/65535/51808440787_9586b43c70_z.jpg" width="640" height="427" alt="whistler_3_alpine hiking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
@@ -43,7 +36,7 @@ __April 2018, Emei Moutain__ Trip with the Botany Club
 
 __Summer 2017, Wolong Nature Reserve__ Field work
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/29327746937/in/album-72157700259460344/" title="双花堇菜"><img src="https://farm2.staticflickr.com/1873/29327746937_af338370ca_n.jpg" width="640" height="427" alt="双花堇菜"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/43546719684/in/album-72157700259460344/" title="山酢浆"><img src="https://live.staticflickr.com/1891/43546719684_502982d16c_z.jpg" width="640" height="427" alt="山酢浆"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
