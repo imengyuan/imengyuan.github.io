@@ -24,7 +24,7 @@ __2020 Favorites__
 
 __2019 Favorites__ 
 
-<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51808440787/in/album-72177720295830864" title="whistler_3_alpine hiking"><img src="https://live.staticflickr.com/65535/51808440787_9586b43c70_z.jpg" width="640" height="427" alt="whistler_3_alpine hiking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51808441542/in/album-72177720295830864/" title="whistler_2_Saxifraga sp"><img src="https://live.staticflickr.com/65535/51808441542_c9684908ff_z.jpg" width="640" height="429" alt="whistler_2_Saxifraga sp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
