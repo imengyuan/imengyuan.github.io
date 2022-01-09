@@ -7,37 +7,31 @@ redirect_from:
   - /photography
 ---
 
-To be updated.
+I'm a huge plant nerd and I enjoy nature photography in my free time. Here are some of the photos I took using Nikon D610 (100mm & 24-85mm lenses) and Sony DSC-RX100.
 
 
+__2021 Favorites__
 
-__Vandusen Botanical Garden__ Busy Labor Day Weekend 
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/42610274800/in/album-72157670812869937/" title="DSC08957"><img src="https://farm2.staticflickr.com/1856/42610274800_8e0d74103b_n.jpg" width="640" height="427" alt="DSC08957"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51809401103/in/album-72177720295830513/" title="無標題"><img src="https://live.staticflickr.com/65535/51809401103_55f638a43a_z.jpg" width="640" height="431" alt="無標題"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
-__Summer 2018, Burnaby & Vancouver__ Three-month Internship
+__2020 Favorites__
+
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51809724014/in/album-72177720295827322/" title="IMG_20200408_190942"><img src="https://live.staticflickr.com/65535/51809724014_4837739264_z.jpg" width="640" height="385" alt="IMG_20200408_190942"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<br>
+
+__2019 Favorites__ 
+
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/51810135050/in/album-72177720295830864/" title="1"><img src="https://live.staticflickr.com/65535/51810135050_aaa8e1f6e8_z.jpg" width="640" height="427" alt="1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<br>
+
+
+__Summer 2018, Burnaby & Vancouver__ Internship
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/44223489842/in/album-72157694798142860/" title="Black berry"><img src="https://farm2.staticflickr.com/1889/44223489842_42f544100d_n.jpg" width="640" height="427" alt="Black berry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<br>
-
-__August 2018, Toronto__ Symposium & Travel 
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/42464689870/in/album-72157672723260138/" title="DSC08113"><img src="https://farm2.staticflickr.com/1885/42464689870_42040ce13e_n.jpg" width="640" height="427" alt="DSC08113"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<br>
-
-__July 2018, South China Botanical Garden, guangzhou__ Flight Layover
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/29569190617/in/album-72157673119713198/" title="Hoya revolubilis"><img src="https://farm2.staticflickr.com/1871/29569190617_8a5808ba94_n.jpg" width="640" height="427" alt="Hoya revolubilis"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<br>
-
-__April 2018, Baishuihe Nature Reserve__ Field Trip with Ecology Majors
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/30511932608/in/album-72157672905597828/" title="莲叶点地梅3"><img src="https://farm2.staticflickr.com/1888/30511932608_740dce2795_n.jpg" width="640" height="427" alt="莲叶点地梅3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
@@ -47,16 +41,10 @@ __April 2018, Emei Moutain__ Trip with the Botany Club
 
 <br>
 
-__Summer 2017, Wolong Nature Reserve__ Field work helping with identifying plants
+__Summer 2017, Wolong Nature Reserve__ Field work
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/29327746937/in/album-72157700259460344/" title="双花堇菜"><img src="https://farm2.staticflickr.com/1873/29327746937_af338370ca_n.jpg" width="640" height="427" alt="双花堇菜"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
-__Through My 4-year Undergraduate in Chengdu, Sichuan__ Common plants on campus 
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/166559948@N08/43545502234/in/album-72157700259448134/" title="油茶"><img src="https://farm2.staticflickr.com/1888/43545502234_219e8741d2_n.jpg" width="640" height="427" alt="油茶"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Medicinal Botanical Garden full with Surprises
-
-<br>
