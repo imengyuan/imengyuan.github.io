@@ -10,7 +10,7 @@ redirect_from:
 As a huge plant nerd, I enjoy nature photography in my free time. Here are some of the photos I took using Nikon D610 (100mm, 24-85mm lenses) and Sony DSC-RX100.
 
 __2022 Favorites__
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/166559948@N08/albums/72177720305937283" title="2022"><img src="https://live.staticflickr.com/65535/52681975678_b6c521ecdd.jpg" width="640" height="431" alt="2022"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/166559948@N08/52680963647/in/album-72177720305937283/" title="2_ESC"><img src="https://live.staticflickr.com/65535/52680963647_4d4190116d_z.jpg" width="640" height="431" alt="2_ESC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br>
 
