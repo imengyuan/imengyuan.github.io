@@ -23,10 +23,10 @@ Currently I'm studying how selection in plant gametophytes affect the evolution 
 Check out my google scholar profile __[here](https://scholar.google.com/citations?hl=en&user=srbcmeYAAAAJ)__.
 
 
-* __Yuan, M.__, & Stinchcombe, J. R. (2020). Population genomics of parallel adaptation. Molecular Ecology.
+* Hibbins MS, Rifkin JL, Choudhury BI, Voznesenka O, Sacchi BM, __Yuan M__, Gong Y, Barrett SC, Wright SI. Phylogenomics resolves key relationships in Rumex and uncovers a dynamic history of independently evolving sex chromosomes. bioRxiv. 2023:2023-12.
 
-* Zhang, Z., Dong, H., __Yuan, M.__, & Yu, Y. (2020). The complete chloroplast genome of *Oenanthe javanica*. Mitochondrial DNA Part B, 5(3), 3169–3171.
+* Rifkin JL, Hnatovska S, __Yuan M__, Sacchi BM, Choudhury BI, Gong Y, Rastas P, Barrett SC, Wright SI. 2022. Recombination landscape dimorphism and sex chromosome evolution in the dioecious plant Rumex hastatulus. Philos Trans R Soc Lond B Biol Sci. 377(1850):20210226.
 
-Preprints
+* __Yuan M__, Stinchcombe JR. 2020. Population genomics of parallel adaptation. Mol Ecol. 29(21): 4033-4036.
 
-* Rifkin, J. L., Hnatovska, S., __Yuan, M.__, Sacchi, B. M., Choudhury, B. I., Gong, Y., Rastas, P., Barrett, S. C., & Wright, S. I. (2021). Recombination landscape dimorphism contributes to sex chromosome evolution in the dioecious plant *Rumex hastatulus*. bioRxiv.
+* Zhang Z, Dong H, __Yuan M__, Yu Y. 2020. The complete chloroplast genome of Oenanthe javanica. Mitochondrial DNA Part B. 5(3):3151-3153.
