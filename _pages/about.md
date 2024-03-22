@@ -25,7 +25,7 @@ __Sept 2019__: I'm starting my PhD at the University of Toronto, looking forward
 
 __Oct 2018 - Jun 2019__: I'm working on my bachelor's thesis about _Rumex_ meiotic drive collaborating with Dr. Stephen Wright from the University of Toronto.
 
-__July - Oct 2018__: In this summer I'm a [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) intern at Simon Fraser University working with Dr. [Jim Mattsson](https://www.sfu.ca/biology/people/profiles/jmattsso.html) on conifer bark transcriptomics. 
+__July - Oct 2018__: In this summer I'm a [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) intern at Simon Fraser University working with Dr. [Jim Mattsson](https://www.sfu.ca/biology/people/faculty/jmattsso.html) on conifer bark transcriptomics. 
 
 
 <br>
