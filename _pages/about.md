@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in plant evolutionary genomics. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_2024.pdf) (updated Oct. 2024).
+I'm a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in plant evolutionary genomics. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_2025.pdf) (updated Jun 2025).
 
 I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University in 2019.
 
