@@ -7,14 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, co-supervised by Dr. [Stephen Wright](https://wright.eeb.utoronto.ca/research/) and Dr. [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I'm interested in plant evolutionary genomics. My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_2025.pdf) (updated Jun 2025).
+I received my PhD from the Ecology and Evolutionary Biology department at University of Toronto, co-supervised by Drs. [Stephen Wright](https://wright.eeb.utoronto.ca/) and [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I investigated the evolutionary genomics of selection across haploid and diploid life stages in both angiosperm and moss species.  
 
-I received my B.S. in Biological Sciences with a minor in Software Engineering at Sichuan University in 2019.
+Before my PhD, I received my BSc in Biological Sciences (major) and BE in Software Engineering (minor) at Sichuan University.
 
-For my PhD thesis, I'm interested in the evolutionary genomics of plant gametophytic selection. Check out my [Research](https://imengyuan.github.io/research/) page for more information. Feel free to reach out if you're interested in my work and want to chat :)
+My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_2025.pdf) (updated Sept 2025).
 
-
+---
 ## News
+__Sept 2025__: I defended my PhD! Read my thesis [here](https://imengyuan.github.io/files/Yuan_Meng_202511_PhD_thesis_compressed.pdf).
+
+
 __Aug 2022__: I presented my research at ESEB conference in Prague, Czech Republic.
 
 __Nov 2021__: I passed my appraisal exam and became a PhD candidate!
