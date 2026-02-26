@@ -11,7 +11,7 @@ I received my PhD from the Ecology and Evolutionary Biology department at Univer
 
 Before my PhD, I received my BSc in Biological Sciences (major) and BE in Software Engineering (minor) at Sichuan University.
 
-My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_2025.pdf) (updated Sept 2025).
+My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Feb2026.pdf) (updated Feb 2026).
 
 ---
 ## News
