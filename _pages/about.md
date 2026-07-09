@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my PhD from the Ecology and Evolutionary Biology department at University of Toronto, co-supervised by Drs. [Stephen Wright](https://wright.eeb.utoronto.ca/) and [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I investigated the evolutionary genomics of selection across haploid and diploid life stages in both angiosperm and moss species.  
+I'm a postdoctoral fellow with Dr. [Alexandre Pellan Cheng](https://www.desiletschenglabs.com/) at the Centre hospitalier de l'Université de Montréal ([CHUM](https://www.chumontreal.qc.ca/en/crchum)). I am currently developing bioinformatic pipelines for liquid biopsy tests of cancer. I aim to bridge genomics and clinical practice, turning computational pipelines into tools directly beneficial for patients.
+
+I received my PhD from the Ecology and Evolutionary Biology department at University of Toronto, co-supervised by Drs. [Stephen Wright](https://wright.eeb.utoronto.ca/) and [John Stinchcombe](http://stinchcombe.eeb.utoronto.ca). I investigated the evolutionary genomics of selection across haploid and diploid life stages in plants.  
 
 Before my PhD, I received my BSc in Biological Sciences (major) and BE in Software Engineering (minor) at Sichuan University.
 
@@ -15,6 +17,8 @@ My CV is availabe [here](https://imengyuan.github.io/files/CV_MengYuan_Feb2026.p
 
 ---
 ## News
+__July 2026__: I started my postdoc in cancer genomics!
+
 __Sept 2025__: I defended my PhD! Read my thesis [here](https://imengyuan.github.io/files/Yuan_Meng_202511_PhD_thesis_compressed.pdf).
 
 
