@@ -7,6 +7,12 @@ redirect_from:
   - /research
 ---
 
+## Postdoc research
+
+coming soon
+
+
+## PhD research
 In plants the gametes come from a separate life stage called gametophyte. Plants alternate their lifecycles between the gametophytes (n) and the sporophytes (2n). These two life stages are adapted to different environments. 
 
 In flowering plants, gametophytes include ovule and pollen, they are smaller, have simpler structure and are dependent on the diploid sporophytes. Most evolutionary studies in flowering plants focus on the sporophytes, selection on the gametophyte stage is under-investigated.
@@ -22,7 +28,11 @@ During my PhD I studied how selection in plant gametophytes affects the evolutio
 ## Publications
 Check out my google scholar profile __[here](https://scholar.google.com/citations?hl=en&user=srbcmeYAAAAJ)__.
 
-* __Yuan M__, Sacchi BM, Choudhury BI, Barrett SCH, Stinchcombe JR, Wright SI. 2025. *Cis*-regulation of gene expression between sexes and life stages in *Rumex hastatulus*. bioRxiv. 2025:2025.06.16.659834.
+* __Yuan M__, Sacchi BM, Choudhury BI, Barrett SCH, Stinchcombe JR, Wright SI. 2026. *Cis*-regulation of gene expression between sexes and life stages in *Rumex hastatulus*. Molecular Biology and Evolution. 43(7):msag151.
+
+* Hibbins MS, Pyne C, Sukmaniuk M, Glasgow E, __Yuan M__, Gong Y, Barrett SCH, Wright SI. 2025. Rapid evolution of synteny associated with multiple origins of dioecy and XY sex determination. bioRxiv. 2025:2025.12.21.695719.
+
+* Sacchi BM, __Yuan M__, Pyne C, Choudhury B, Gong Y, Barrett SC, Wright SI. 2025. Widespread loss of Y expression in the absence of transcriptional dosage compensation in Rumex hastatulus. bioRxiv. 2025:2025.11.20.689509.
 
 * __Yuan M__, Kollar LM, Sacchi BM, Carey SB, Choudhury BI, Jones T, Grimwood J, Barrett SCH, McDaniel SF, Wright SI, Stinchcombe JR. 2025. Testing for the genomic footprint of conflict between life stages in an angiosperm and moss species. Genome Biology and Evolution. 17(8):evaf138.
 
